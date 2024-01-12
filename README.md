@@ -21,6 +21,8 @@ https://www.curseforge.com/minecraft/mc-mods/sbmod
 ##### 1. Click on releases on the right hand side
 ##### 2. Click on lastest release
 ##### 3. Download the jar file
+
+(Notice: Please take a look at the original mod, this is just a personal fork that is porting it to 1.20.1! ty ;) - Ace)
 ##### 4. If you don't already have fabric, download fabric for 1.19.2 here https://fabricmc.net/use/installer/
 ##### 5. Move the jar file into the mods folder
 ##### 6. Play minecraft and enjoy!
